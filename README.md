@@ -7,3 +7,6 @@ In the second version of the first code package, I tried erosion proportinal to 
 # 3) 
 compaction :)
 
+# 4) 
+Working on river meandering code as proposed in the class
+
