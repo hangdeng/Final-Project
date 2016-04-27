@@ -8,6 +8,9 @@ In the second version of the first code package, I tried erosion proportinal to 
 # 3)
 Non deposition (no Qs) to increasing Qs in Qs curve, use step function in matlab
 
-# 4) 
+# 4)
+Two topographic lows
+
+# 5) 
 Working on river meandering code as proposed in the class
 
