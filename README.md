@@ -6,7 +6,7 @@ In the very first package of codes, I tried to simulate how subsidence and sedim
 In the second version of the first code package, I tried erosion proportinal to dqdx. No compaction added. I also make the Qs higher.
 
 # 3)
-Non deposition (no Qs) to increasing Qs in Qs curve
+Non deposition (no Qs) to increasing Qs in Qs curve, use step function in matlab
 
 # 4) 
 Working on river meandering code as proposed in the class
