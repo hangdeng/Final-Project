@@ -12,8 +12,8 @@ Non deposition (no Qs) to increasing Qs in Qs curve, use step function in matlab
 Two ponds with different subsidence rates
 
 #Future work
-*1
+# *1
 Working on modeling stratigraphic evolution of intraslope minibasins using volumetric rules of sedimentation (inspired by Sylvester et al., 2015)
-*2 
+# *2 
 Working on river meandering code as proposed in the class
 
